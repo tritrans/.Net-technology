@@ -1,0 +1,12 @@
+D:\Congnghe.net\congnghe.net_tuan03\CN.NET_Tuan03\bin\Debug\CN.NET_Tuan03.exe.config
+D:\Congnghe.net\congnghe.net_tuan03\CN.NET_Tuan03\bin\Debug\CN.NET_Tuan03.exe
+D:\Congnghe.net\congnghe.net_tuan03\CN.NET_Tuan03\bin\Debug\CN.NET_Tuan03.pdb
+D:\Congnghe.net\congnghe.net_tuan03\CN.NET_Tuan03\obj\Debug\CN.NET_Tuan03.csproj.AssemblyReference.cache
+D:\Congnghe.net\congnghe.net_tuan03\CN.NET_Tuan03\obj\Debug\CN.NET_Tuan03.b5_c1.resources
+D:\Congnghe.net\congnghe.net_tuan03\CN.NET_Tuan03\obj\Debug\CN.NET_Tuan03.Properties.Resources.resources
+D:\Congnghe.net\congnghe.net_tuan03\CN.NET_Tuan03\obj\Debug\CN.NET_Tuan03.csproj.GenerateResource.cache
+D:\Congnghe.net\congnghe.net_tuan03\CN.NET_Tuan03\obj\Debug\CN.NET_Tuan03.csproj.CoreCompileInputs.cache
+D:\Congnghe.net\congnghe.net_tuan03\CN.NET_Tuan03\obj\Debug\CN.NET_Tuan03.exe
+D:\Congnghe.net\congnghe.net_tuan03\CN.NET_Tuan03\obj\Debug\CN.NET_Tuan03.pdb
+D:\Congnghe.net\congnghe.net_tuan03\CN.NET_Tuan03\obj\Debug\CN.NET_Tuan03.b5_c2.resources
+D:\Congnghe.net\congnghe.net_tuan03\CN.NET_Tuan03\obj\Debug\CN.NET_Tuan03.b5_c3.resources

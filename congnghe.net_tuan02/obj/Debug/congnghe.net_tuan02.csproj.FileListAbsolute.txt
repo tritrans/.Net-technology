@@ -1,0 +1,13 @@
+D:\Congnghe.net\congnghe.net_tuan02\bin\Debug\congnghe.net_tuan02.exe.config
+D:\Congnghe.net\congnghe.net_tuan02\bin\Debug\congnghe.net_tuan02.exe
+D:\Congnghe.net\congnghe.net_tuan02\bin\Debug\congnghe.net_tuan02.pdb
+D:\Congnghe.net\congnghe.net_tuan02\obj\Debug\congnghe.net_tuan02.csproj.AssemblyReference.cache
+D:\Congnghe.net\congnghe.net_tuan02\obj\Debug\congnghe.net_tuan02.bai01.resources
+D:\Congnghe.net\congnghe.net_tuan02\obj\Debug\congnghe.net_tuan02.bai2.resources
+D:\Congnghe.net\congnghe.net_tuan02\obj\Debug\congnghe.net_tuan02.bttl01.resources
+D:\Congnghe.net\congnghe.net_tuan02\obj\Debug\congnghe.net_tuan02.Properties.Resources.resources
+D:\Congnghe.net\congnghe.net_tuan02\obj\Debug\congnghe.net_tuan02.csproj.GenerateResource.cache
+D:\Congnghe.net\congnghe.net_tuan02\obj\Debug\congnghe.net_tuan02.csproj.CoreCompileInputs.cache
+D:\Congnghe.net\congnghe.net_tuan02\obj\Debug\congnghe.net_tuan02.exe
+D:\Congnghe.net\congnghe.net_tuan02\obj\Debug\congnghe.net_tuan02.pdb
+D:\Congnghe.net\congnghe.net_tuan02\obj\Debug\congnghe.net_tuan02.bai03.resources

@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LuuDuLieuSinhVien\\Tran_Minh_Tri\\congnghe.net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C64F2675-32C3-4621-B60C-A2F202DC359F}|..\\congnghe.net_tuan02\\congnghe.net_tuan02.csproj|e:\\luudulieusinhvien\\tran_minh_tri\\congnghe.net_tuan02\\tinhtoan_bai01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64F2675-32C3-4621-B60C-A2F202DC359F}|..\\congnghe.net_tuan02\\congnghe.net_tuan02.csproj|e:\\luudulieusinhvien\\tran_minh_tri\\congnghe.net_tuan02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAD07A5-5EC9-44A8-B233-CB6B9CA44BB8}|congnghe.net.csproj|e:\\luudulieusinhvien\\tran_minh_tri\\congnghe.net\\bai4_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EAD07A5-5EC9-44A8-B233-CB6B9CA44BB8}|congnghe.net.csproj|solutionrelative:bai4_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tinhtoan_bai01.cs",
+              "DocumentMoniker": "E:\\LuuDuLieuSinhVien\\Tran_Minh_Tri\\congnghe.net_tuan02\\tinhtoan_bai01.cs",
+              "RelativeDocumentMoniker": "..\\congnghe.net_tuan02\\tinhtoan_bai01.cs",
+              "ToolTip": "E:\\LuuDuLieuSinhVien\\Tran_Minh_Tri\\congnghe.net_tuan02\\tinhtoan_bai01.cs",
+              "RelativeToolTip": "..\\congnghe.net_tuan02\\tinhtoan_bai01.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T09:11:00.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\LuuDuLieuSinhVien\\Tran_Minh_Tri\\congnghe.net_tuan02\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\congnghe.net_tuan02\\Form1.cs",
+              "ToolTip": "E:\\LuuDuLieuSinhVien\\Tran_Minh_Tri\\congnghe.net_tuan02\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\congnghe.net_tuan02\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T09:10:11.055Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bai4_1.cs [Design]",
+              "DocumentMoniker": "E:\\LuuDuLieuSinhVien\\Tran_Minh_Tri\\congnghe.net\\bai4_1.cs",
+              "RelativeDocumentMoniker": "bai4_1.cs",
+              "ToolTip": "E:\\LuuDuLieuSinhVien\\Tran_Minh_Tri\\congnghe.net\\bai4_1.cs [Design]",
+              "RelativeToolTip": "bai4_1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:51:39.061Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
